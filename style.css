@@ -1,0 +1,14 @@
+#kiloseconds {
+  font-size: 55px;
+  font-weight: bold;
+  color: white;
+  /*background : red;*/
+}
+
+body {
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
